@@ -1,64 +1,28 @@
-# 👋 Hey, I'm Avinash (Avi)
+## Hi, I'm Avinash
+*Computer Science student & passionate tech enthusiast exploring AI, app development, and open source.*
 
-💡 Computer Science student who loves building things that *actually work*  
-🚀 Into AI, app development, system design & open-source  
-🧠 Always exploring — from low-level systems to intelligent apps  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avinash-006) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avinash@example.com)
 
----
+## 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Avinash-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/avinash-006)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:avinash@example.com)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Avinash-006&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://streak-stats.demolab.com/?user=Avinash-006&theme=transparent&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-006&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## ⚙️ Tech I Work With
-
-💻 Languages  
-`C++` `Python` `JavaScript`
-
-📱 App Development  
-`React Native` `Android (Kotlin - learning)`
-
-🌐 Backend & Databases  
-`Spring Boot` `MySQL` `Firebase`
-
-🛠 Tools  
-`Git` `Linux` `Docker (learning)`  
+### 🔝 Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=Avinash-006&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Avinash-006&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚧 What I'm Building
-
-- 📂 **SwiftShare** → File sharing with Nearby Share-style transfer  
-- ☁️ **MyDrive App** → Cloud storage UI + backend integration  
-- 🤖 **AI Plant Analyzer** → Image-based plant insights using Gemini  
-- 🎬 **VOID** → Experimental video-sharing platform  
-
----
-
-## 🧠 Current Focus
-
-- Deep diving into **AI + real-world apps**
-- Building **full-stack scalable systems**
-- Exploring **low-level + high-performance computing**
-- Learning things that actually *matter in production*
-
----
-
-## 📊 GitHub Activity
-
-![](https://github-readme-stats.vercel.app/api?username=Avinash-006&theme=transparent&hide_border=true)
-![](https://streak-stats.demolab.com/?user=Avinash-006&theme=transparent&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash-006&layout=compact&theme=transparent&hide_border=true)
-
----
-
-## ⚡ Fun Fact
-
-I don't just write code…  
-I build ideas until they become real.
-
----
-
-![](https://visitcount.itsvg.in/api?id=Avinash-006&icon=5&color=12)
+<!-- Created with ❤️ by ChatGPT -->
